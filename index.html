@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--Tailwind and daisy UI CDN-->
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.23/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- google font cdn -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- font awsom cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        *{
+            font-family: "Poppins", sans-serif;
+        }
+        .background_main{
+            background-image: url(asset/bg.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+
+</head>
+<body class="background_main">
+    <header class=" px-[16px] md:px-[40px] lg:px-[140px]">
+            <!--navigation Bar-->
+    <nav class="py-[16px] lg:py-[30px]">
+        <div class="flex flex-row justify-between items-center">
+          <!--Logo-->
+          <div class="">
+            <a class="text-xl lg:text-[30px] font-bold text-black">SEO Exparts</a>
+          </div>
+          <!--navigation-->
+          <div class=" hidden lg:contents">
+            <ul class="text-[16px] font-semibold menu menu-horizontal px-1 text-yellow-400 flex-1 justify-end">
+              <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>Home</a></li>
+              <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>Services</a></li>
+              <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>Benefits</a></li>
+              <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>Blog</a></li>
+              <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>Contact</a></li>
+            </ul>
+          </div>
+          <!--manu icon lg:hidden mid and small devise vissible-->
+          <div class=" ">
+            <div class="dropdown">
+              <div tabindex="0" role="button" class="btn btn-ghost lg:hidden text-white">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+                  stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" />
+                </svg>
+              </div>
+              <ul tabindex="0"
+                class="text-black dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-4 shadow right-0 ">
+                <li class=" hover:text-red-500"><a>Home</a></li>
+                <li class="hover:text-red-500"><a>Key Service</a></li>
+                <li class="hover:text-red-500"><a>Benefits</a></li>
+                <li class="hover:text-red-500"><a>Review</a></li>
+                <li class="hover:text-red-500"><a>Blog</a></li>
+                <li class="hover:text-red-500"><a>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+      </nav>
+    </header>
+
+    <!-- hero section -->
+     <section class=" px-[16px] md:px-[40px] lg:px-[140px] flex items-center justify-between">
+        <!-- text div -->
+         <div>
+            <h3>Hello</h1>
+            <h1>Muksitul Islam</h1>
+            <h2>As a <span>Full-Stack web Devoloper</span></h1>
+            <div><button class="btn bg-yellow-400">Download CV</button></div>
+         </div>
+         <!-- hero img div -->
+          <div class="flex items-center justify-between">
+            <div class=""> <img class="w-[600px]"  src="asset/IMG20221128152133-01-removebg-preview.png" alt=""></div>
+            <!--social icons -->
+            <div class="text-white text-[20px] flex flex-col gap-[22px]">
+                <button><i class="fa-brands fa-facebook"></i></button>
+                <button><i class="fa-brands fa-github"></i></button>
+                <button><i class="fa-brands fa-linkedin-in"></i></button>
+                <button><i class="fa-brands fa-youtube"></i></button>
+            </div>
+          </div>
+     </section>
+</body>
+</html>
