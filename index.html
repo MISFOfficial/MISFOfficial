@@ -7,6 +7,7 @@
     <!--Tailwind and daisy UI CDN-->
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.23/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
+
     <!-- google font cdn -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -32,6 +33,36 @@
             background-position: center;
             background-attachment: fixed;
         }
+        .slider {
+            scroll-snap-type: x mandatory;
+            overflow-x: scroll;
+            scroll-behavior: smooth;
+        }
+        .slide {
+            scroll-snap-align: start;
+            flex: 0 0 auto;
+        }
+        .lightbox {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .lightbox img {
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 8px;
+        }
+        .lightbox.active {
+            display: flex;
+        }
+
     </style>
 
 </head>
@@ -52,6 +83,7 @@
                 <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a>About</a></li>
                 <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a href="">Projects</a></li>
                 <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a href="#skill">Skill</a></li>
+                <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a href="#certifite">Certify</a></li>
                 <li class="hover:bg-[white] hover:text-black rounded-[5px]"><a href="#contact">Contact</a></li>
               </ul>
             </div>
@@ -70,6 +102,7 @@
                   <li class="hover:text-yellow-400"><a>About</a></li>
                   <li class="hover:text-yellow-400"><a href="">Projects</a></li>
                   <li class="hover:text-yellow-400"><a href="#skill">Skill</a></li>
+                  <li class="hover:text-yellow-400"><a href="#certifite">Certify</a></li>
                   <li class="hover:text-yellow-400"><a href="#contact">Contact</a></li>
                 </ul>
               </div>
@@ -101,6 +134,42 @@
     
     <!-- main -->
     <main>
+      <!-- projects -->
+      <section id="certifite" class="flex flex-col items-center justify-center gap-[15px] lg:gap-[20px]  mt-[50px]">
+        <h1 class="text-xl md:text-3xl font-bold text-center mb-8 bg-[#EAEFF5] p-[10px] rounded-[5px]">Certify</h1>
+        <div class="container mx-auto p-4">
+            <div class="relative">
+                <!-- Slider Container -->
+                <div id="slider" class="slider flex overflow-hidden relative w-full h-96 rounded-lg shadow-lg gap-x-[20px]">
+                    <!-- Slides 1-->
+                    <div class="slide w-auto h-auto flex-shrink-0">
+                        <img src="certifite/Screenshot 2025-03-09 135315.png" alt="Photo 1" class="w-full h-full object-cover cursor-pointer" onclick="openLightbox(this.src)">
+                    </div>
+                    <!-- Slides 2-->
+                    <div class="slide w-auto h-auto flex-shrink-0">
+                        <img src="certifite/sklill_job.png" alt="Photo 1" class="w-full h-full object-cover cursor-pointer" onclick="openLightbox(this.src)">
+                    </div>    
+                    <!-- Slides 4-->
+                    <div class="slide w-auto h-auto flex-shrink-0">
+                        <img src="certifite/Screenshot 2025-03-09 135315.png" alt="Photo 1" class="w-full h-full object-cover cursor-pointer" onclick="openLightbox(this.src)">
+                    </div>    
+                </div>
+
+                <!-- Navigation Buttons -->
+                <button id="prev" class="absolute left-5 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2 rounded-full hover:bg-opacity-75">
+                    &#10094;
+                </button>
+                <button id="next" class="absolute right-5 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2 rounded-full hover:bg-opacity-75">
+                    &#10095;
+                </button>
+            </div>
+        </div>
+        <!-- Lightbox -->
+        <div id="lightbox" class="lightbox" onclick="closeLightbox()">
+          <img id="lightbox-img" src="" alt="Zoomed Image">
+        </div>
+      </section>
+
       <!-- skill section -->
       <section id="skill" class="flex flex-col items-center justify-center gap-[50px] lg:gap-[100px] bg-[#3e3e3e] pt-[50px] pb-[50px] lg:pt-[100px] lg:pb-[100px] mt-[50px]">
           <h1 class="text-[20px] md:text-[35px] lg:text-[50px] text-white border-[4px] px-[30px] ">Skill</h1>
@@ -194,18 +263,18 @@
             <!-- Phone -->
             <div class="flex gap-x-[10px] items-center">
               <i class="fa-solid fa-phone text-[#FFCA00]"></i>
-              <h1>+880 17XXXXXXXX</h1>
+              <h1>+880 1617182171</h1>
             </div>
             <!-- email -->
             <div class="flex gap-x-[10px] items-center">
               <i class="fa-solid fa-envelope  text-[#FFCA00]"></i>
-              <h1>info@gmail.com</h1>
+              <h1>muksitul44@gmail.com</h1>
               <h1></h1>
             </div>
             <!-- location -->
             <div class="flex gap-x-[10px] items-center">
               <i class="fa-solid fa-location-dot text-[#FFCA00]"></i>
-              <h1>Mirpur 11, Dhaka, Bangladesh</h1>
+              <h1>Kishoreganj, Dhaka, Bangladesh</h1>
             </div>
           </div>
           <!-- input zoon -->
@@ -277,5 +346,7 @@
       </nav>
     </footer>
 
+
+    <script src="script/slider.js"></script>
 </body>
 </html>
