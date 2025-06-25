@@ -3,7 +3,7 @@
         <td width="65%">
             <h1>Hi 👋, I'm Muksitul Islam<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Devoloper;Critical+thinker;Good+Communication;UnderStandanle;CSE+Graduate" alt="Typing SVG" /></a></h1>
      <p>
-assionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, React Router, Axios, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, JWT and MongoDB.
+Assionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, React Router, Axios, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, JWT and MongoDB.
 
 </p>
 <p>
