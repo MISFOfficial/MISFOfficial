@@ -67,14 +67,14 @@ These are my advanced and polished projects, showcasing full functionality and d
         <img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
       </a></td>  
       <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
-      <td><img src="./asset/Project/project1.png" alt="Online Kenakata Screenshot" width="150"/></td>  
+      <td><img src="./asset/Project/project1.png" alt="Online group Study" width="150"/></td>  
     </tr> 
    
   </tbody>  
 </table>
 
 <p align="center">
-  <a href="https://github.com/ImranParthib/My_Dev_Archive" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/View%20All-Projects-blue?style=for-the-badge&logo=github" alt="View All Projects" />
   </a>
 </p>
@@ -82,9 +82,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 ### 🌐 Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/imranparthib/" target="_blank">
+    <a href="https://www.linkedin.com/in/msfofficial/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin"
-            alt="imranparthib" />
+            alt="Muksitul Islam" />
     </a>
 </p>
 
