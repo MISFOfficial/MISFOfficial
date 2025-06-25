@@ -51,7 +51,7 @@ assionate Software Developer with a BSc in CSE, specializing in high-performance
 
 These are my advanced and polished projects, showcasing full functionality and design.
 
-<table width="350">  
+<table>  
   <thead>  
     <tr>  
       <th>Project Name</th>  
@@ -94,7 +94,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 <p align="left">
     <a href="https://www.linkedin.com/in/msfofficial/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-MuksitulIslam%20✔-0077B5?style=for-the-badge&logo=linkedin"
-            alt="Muksitul Islam"  />
+            alt="Muksitul Islam"/>
     </a>
 </p>
 
@@ -110,7 +110,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 <a href="https://www.facebook.com/share/1FrMbns1CP/ " target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="Muksitul Islam" height="30" width="40" /></a>
-<a href="https://youtu.be/QR1YOLGU_iA?si=hVzORhpdMXKd9U_F " target="blank"><img align="center"
+<a href="https://www.youtube.com/@misf-official" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="@decode_us_" height="30" width="40" /></a>
 
@@ -126,9 +126,8 @@ These are my advanced and polished projects, showcasing full functionality and d
             <img src="https://nirzak-streak-stats.vercel.app/?user=MISFOfficial&theme=tokyonight&hide_border=false"
                 alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
         </td>
-        <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
-        </td>
     </tr>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
