@@ -55,6 +55,7 @@ These are my advanced and polished projects, showcasing full functionality and d
   <thead>  
     <tr>  
       <th>Project Name</th>  
+      <th>OverView</th>  
       <th>Tools</th>  
       <th>Live Demo</th>  
       <th>Code</th>  
@@ -64,6 +65,7 @@ These are my advanced and polished projects, showcasing full functionality and d
   <tbody> 
     <tr>  
       <td><strong>Online group Study</strong></td>  
+      <td><strong>A online group Study Platform can Create assignment , can participate on assignment , can marked on assignment</strong></td>  
       <td>  
        React router, Axios, TailwindCSS, Node js, mongoDB, JWT, Versel
       </td>  
