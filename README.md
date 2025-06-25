@@ -1,19 +1,17 @@
 <table>
     <tr>
         <td width="65%">
-            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Software+Developer;CSE+Graduate;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
+            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Devoloper;Critical+thinker;Good+Communication;UnderStandanle;CSE+Graduate" alt="Typing SVG" /></a></h1>
      <p>
-    Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
-</p>
-<p>
-    Comfortable with C++, Java, and Android development, with a solid understanding of data structures, algorithms, and object-oriented programming. Enjoys problem-solving,Beyond tech, finds inspiration in reading and writing 📚.
+assionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, React Router, Axios, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, JWT and MongoDB.
+
 </p>
 <p>
     Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
 </p>
         </td>
         <td hieght="50%">  
- <img src="./image/portfolio.png" width=" ">
+ <img src="./asset/Mine/portfolio.png" width=" ">
  
 <p>
     <a href="https://imranparthib.me/" >
@@ -51,6 +49,7 @@
 ## **Latest Projects** 🚀
 
 These are my advanced and polished projects, showcasing full functionality and design.
+
 <table>  
   <thead>  
     <tr>  
@@ -171,7 +170,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 - 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
-- ⚡ Fun fact: Once lost in the prose of novels, now found in the elegance of code. My story evolved—chapters rewritten in the world of software development, chasing dreams to turn them into reality. 📖💻✨ #NovelsToCode 📖💻✨ #NovelsToCode"**
+- ⚡ Fun fact: Once lost in the prose of novels, now found in the elegance of code. My story evolved—chapters rewritten in the world of software development, chasing dreams to turn them into reality. 📖💻✨ #NovelsToCode 📖💻✨ #NovelsToCode"\*\*
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 
@@ -187,9 +186,10 @@ These are my advanced and polished projects, showcasing full functionality and d
 <td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ">I sold my first SaaS for $50,000</a><br/>Mar 24, 2025</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-
 ### 📝 [Latest Blog Posts](https://dev.to/imranparthib)
+
 <!-- BLOG-POST-LIST:START -->
+
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
