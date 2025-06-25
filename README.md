@@ -18,6 +18,10 @@ assionate Software Developer with a BSc in CSE, specializing in high-performance
     Portfolio
     </a>
 </p>
+
+<p>muksitul.islam.mi@gmail.com</p>
+<p>Kishoreganj, Dhaka, Bangladesh</p>
+
 <h3>🚀 My skill set includes:</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="">
