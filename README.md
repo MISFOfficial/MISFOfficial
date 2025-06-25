@@ -1,28 +1,25 @@
-    <table>
-      <tr>
+<table>
+    <tr>
         <td width="65%">
-          <h1>Hi 👋, I'm Muksitul Islam</h1>
-          <p>
-            Passionate Software Developer with a BSc in CSE, specializing in
-            high-performance web applications using React, React Router, Axios,
-            Next.js, and Tailwind CSS. Experienced in Firebase Authentication
-            and expanding into full-stack development with Node.js, Express, JWT
-            and MongoDB.
-          </p>
+            <h1>Hi 👋, I'm Muksitul Islam</h1>
+     <p>
+    Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, React Router, Axios, Next.js,  and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, JWT and MongoDB.
+</p>
 
-          <p>
-            Open to collaboration on innovative projects. Let’s connect and
-            build something impactful! 🚀 #WebDevelopment #React #NextJS
-            #TailwindCSS #RecentGraduate
-          </p>
+<p>
+    Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
+</p>
         </td>
-        <td hieght="50%">
-
-          <p>
-            <a href="#">Portfolio Link</a>
-          </p>
-          <h3>🚀 My skill set includes:</h3>
-          ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+        <td hieght="50%">  
+ 
+<p>
+<a href="/" target="_blank">
+        <p>Portfolio Linkdfafdsfdfsdf/p>
+      </a>
+    <a href='https://github.com/MISFOfficial/MISFOfficial'>Portfolio Link</a>
+</p>
+<h3>🚀 My skill set includes:</h3>
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
           ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
           ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
           ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -55,55 +52,45 @@
           ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
           ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
           ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-        </td>
-      </tr>
 
-    </table>
+</td>
+</tr>
 
-    <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=your-github-MISFOfficial&color=dc143c"
-        alt="MISFOfficial" /> </p>
+</table>
 
-    ## 🏆 GitHub Trophies
-    ![](https://github-profile-trophy.vercel.app/?username=MISFOfficial&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=ImranParthib&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ImranParthib" /> </p>
 
-    ## **Latest Projects** 🚀
+## 🏆 GitHub Trophies
 
-    These are my advanced and polished projects, showcasing full functionality
-    and design.
-    <table>
-      <thead>
-        <tr>
-          <th>Project Name</th>
-          <th>Tools</th>
-          <th>Live Demo</th>
-          <th>Code</th>
-          <th>Screenshot</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><strong>Project ti</strong></td>
-          <td>
-            component
-          </td>
-          <td><a href="/" target="_blank">
-              <img
-                src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white"
-                alt="Live Demo" />
-            </a></td>
-          <td><img
-              src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white"
-              alt="Private Code" /></td>
-          <td>project ss</td>
-        </tr>
-      </tbody>
-    </table>
+trophy
 
-    # 📊 GitHub Stats:
-    ![](https://github-readme-stats.vercel.app/api?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br />
-    ![](https://nirzak-streak-stats.vercel.app/?user=MISFOfficial&theme=tokyonight&hide_border=false)<br />
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## **Latest Projects** 🚀
 
-    ### 🔝 Top Contributed Repo
-    ![](https://github-contributor-stats.vercel.app/api?username=MISFOfficial&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+These are my advanced and polished projects, showcasing full functionality and design.
+
+<table>  
+  <thead>  
+    <tr>  
+      <th>Project Name</th>  
+      <th>Tools</th>  
+      <th>Live Demo</th>  
+      <th>Code</th>  
+      <th>Screenshot</th>  
+    </tr>  
+  </thead>  
+  <tbody> 
+    <tr>  
+      <td><strong>Project ti</strong></td>  
+      <td>  
+        component 
+      </td>  
+      <td><a href="/" target="_blank">
+        <img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+      </a></td>  
+      <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
+      <td>project ss</td>  
+    </tr> 
+  </tbody>  
+</table>
