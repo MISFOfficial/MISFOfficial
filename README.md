@@ -89,49 +89,26 @@ These are my advanced and polished projects, showcasing full functionality and d
 <p align="left">
     <a href="https://www.linkedin.com/in/msfofficial/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-MuksitulIslam%20✔-0077B5?style=for-the-badge&logo=linkedin"
-            alt="Muksitul Islam" />
+            alt="Muksitul Islam"  />
     </a>
 </p>
 
 ## 🌐 Stay Updated with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/msfofficial/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Muksitul Islam" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/imranparthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="imranparthib" height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/ImranPathib.Dev" target="blank"><img align="center"
+<a href="https://www.facebook.com/share/1FrMbns1CP/ " target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="Muksitul Islam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@decode_us_" target="blank"><img align="center"
+<a href="https://youtu.be/QR1YOLGU_iA?si=hVzORhpdMXKd9U_F " target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="@decode_us_" height="30" width="40" /></a>            
-<a href="https://instagram.com/decode_us" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="decode_us" height="30" width="40" /></a>  
-<!-- <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imranparthib" height="30" width="40" /></a> -->
-<a href="https://dev.to/imranparthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="Muksitul Islam" height="30" width="40" /></a>
-<!-- <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="@imran-parthib" height="30" width="40" /></a> -->
 
-
-# 🎗️ Support Me:
-
-<p><a href="https://www.buymeacoffee.com/imranparthib"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="Muksitul Islam" /></a>
-            <!-- <a href="https://ko-fi.com/imranparthib"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imranparthib" /></a> -->
-            <a href="https://www.youtube.com/@decode_us"> <img align="left"
-            src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" height="50" width="210" alt="Decode US" /></a></p><br><br>
-<hr>
 
 # 📊 GitHub Stats:
 
