@@ -138,35 +138,16 @@ These are my advanced and polished projects, showcasing full functionality and d
 <table >
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats.vercel.app/api?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+                alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranParthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+            <img src="https://nirzak-streak-stats.vercel.app/?user=MISFOfficial&theme=tokyonight&hide_border=false"
+                alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
         </td>
-    </tr>
-    <tr>
-        <td  style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranParthib&theme=react&hide_border=false"
-                alt="ImranParthib" style="display: block; margin: 0 auto;" />
+        <td style="text-align: center;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="Muksitul Islam" style="display: block; margin: 0 auto;" />
         </td>
-        <td  style="text-align: center;">
-                <img src="./image/fly.gif" alt="Flying animation" height="200" width="280" style="display: block; margin: 0 auto;" />
-        </td> 
     </tr>
 </table>
-<be>
-<!-- <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/> -->
-    ✍️Random Dev Quote & Meme:
-    <table>
-        <tr>
-            <td>
-                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-                    alt="Random Dev Quote" />
-            </td>
-            <td>
-                <img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
-            </td>
-        </tr>
-    </table>
