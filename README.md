@@ -51,7 +51,7 @@ assionate Software Developer with a BSc in CSE, specializing in high-performance
 
 These are my advanced and polished projects, showcasing full functionality and design.
 
-<table>  
+<table width="350">  
   <thead>  
     <tr>  
       <th>Project Name</th>  
