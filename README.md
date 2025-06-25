@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td width="65%">
-            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Devoloper;Critical+thinker;Good+Communication;UnderStandanle;CSE+Graduate" alt="Typing SVG" /></a></h1>
+            <h1>Hi 👋, I'm Muksitul Islam<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Devoloper;Critical+thinker;Good+Communication;UnderStandanle;CSE+Graduate" alt="Typing SVG" /></a></h1>
      <p>
 assionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, React Router, Axios, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, JWT and MongoDB.
 
@@ -14,7 +14,7 @@ assionate Software Developer with a BSc in CSE, specializing in high-performance
  <img src="./asset/Mine/portfolio.png" width=" ">
  
 <p>
-    <a href="https://imranparthib.me/" >
+    <a href="#" >
     Portfolio
     </a>
 </p>
@@ -41,7 +41,7 @@ assionate Software Developer with a BSc in CSE, specializing in high-performance
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ImranParthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=MISFOfficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ## **Latest Projects** 🚀
 
