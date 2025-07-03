@@ -14,7 +14,7 @@ Assionate Software Developer with a BSc in CSE, specializing in high-performance
  <img src="./asset/Mine/portfolio.png" width=" ">
  
 <p>
-    <a href="#" >
+    <a href="https://muksitul-islam.web.app" >
     Portfolio
     </a>
 </p>
@@ -40,7 +40,7 @@ Assionate Software Developer with a BSc in CSE, specializing in high-performance
 </table>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=ImranParthib&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=MISFOfficial&label=Profile%20views&color=0e75b6&style=flat"
         alt="Muksitul Islam" /> </p>
 
 ## Current Activity
