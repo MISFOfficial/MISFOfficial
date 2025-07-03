@@ -14,7 +14,7 @@ Assionate Software Developer with a BSc in CSE, specializing in high-performance
  <img src="./asset/Mine/portfolio.png" width=" ">
  
 <p>
-    <a href="https://muksitul-islam.web.app" >
+    <a href="https://muksitul-islam.web.app" target='_blank' >
     Portfolio
     </a>
 </p>
