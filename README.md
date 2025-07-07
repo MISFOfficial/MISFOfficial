@@ -19,7 +19,7 @@ Assionate Software Developer with a BSc in CSE, specializing in high-performance
     </a>
 </p>
 
-<a href='muksitul44@gmail.com ' target='_blank'>muksitul.islam.mi@gmail.com</a>
+<a href='muksitul44@gmail.com ' target='_blank'>muksitul44@gmail.com</a>
 <p>Kishoreganj, Dhaka, Bangladesh</p>
 
 <h3>🚀 My skill set includes:</h3>
