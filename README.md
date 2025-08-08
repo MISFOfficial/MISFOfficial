@@ -66,7 +66,7 @@ Always open to collaborating on exciting projects!
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/>MongoDB
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jwt" width="40" /><br/>JWT
+      <img src="https://i.ibb.co.com/MyYV6P4y/jwt-flower.webp" width="40" /><br/>JWT
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
@@ -78,10 +78,10 @@ Always open to collaborating on exciting projects!
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="40"/><br/>Stripe
+      <img src="https://i.ibb.co.com/spfryWYp/images.png" width="40" /><br/>Stripe
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/auth0/auth0-original.svg" width="40"/><br/>Auth0
+      <img src="https://i.ibb.co.com/gZkQ7WVj/drivemond-sslcommerz-payment-gateway-logo.webp" width="40" /><br/>SSLcommerz
     </td>
   </tr>
 </table>
