@@ -1,15 +1,14 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="/asset/Mine/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
 <h1 align="center">Hi there / Assalamu Alaikum, I'm Muksitul Islam 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | Open Source Enthusiast</h3>
 
-#Visitor
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=MISFOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="MISFOfficial" />
 </p>
 
 <!-- About Me -->
@@ -121,7 +120,7 @@ Always open to collaborating on exciting projects!
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MISFOfficial&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MISFOfficial&theme=transparent" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MISFOfficial&theme=transparent" alt="Streak Stats" />
 </p>
 
 <p align="center">
