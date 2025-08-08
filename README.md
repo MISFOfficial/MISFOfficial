@@ -75,6 +75,11 @@ Always open to collaborating on exciting projects!
 </table>
 
 ### 💳 Payments & Auth
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=stripe,auth0" />
+</p>
+
+### 💳 Payments & Auth
 <table>
   <tr>
     <td align="center">
