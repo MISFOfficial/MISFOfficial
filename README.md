@@ -7,6 +7,11 @@
 <h1 align="center">Hi there / Assalamu Alaikum, I'm Muksitul Islam 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack | Open Source Enthusiast</h3>
 
+#Visitor
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+</p>
+
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 I’m a passionate full stack developer who loves building modern web applications.  
@@ -71,21 +76,45 @@ Always open to collaborating on exciting projects!
 </table>
 
 ### 💳 Payments & Auth
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=stripe,auth0" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=stripe" width="40" /><br/>Stripe
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=auth0" width="40" /><br/>Auth0
+    </td>
+  </tr>
+</table>
+
 
 ### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel," />
-  <img src="https://skillicons.dev/icons?i=netlify" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" /><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" /><br/>Vercel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=netlify" width="40" /><br/>Netlify
+    </td>
+  </tr>
+</table>
+
 
 <!-- Social Links -->
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://github.com/MISFOfficial" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/msfofficial" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <!-- GitHub Stats -->
