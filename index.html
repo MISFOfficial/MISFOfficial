@@ -78,10 +78,10 @@ Always open to collaborating on exciting projects!
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=stripe" width="40" /><br/>Stripe
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="40"/><br/>Stripe
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=auth0" width="40" /><br/>Auth0
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/auth0/auth0-original.svg" width="40"/><br/>Auth0
     </td>
   </tr>
 </table>
