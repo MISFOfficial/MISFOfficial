@@ -5,7 +5,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi there / Assalamu Alaikum, I'm Muksitul Islam 👋</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Open Source Enthusiast</h3>
+<h3 align="center">Junior Software Developer at AviroSoft </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MISFOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="MISFOfficial" />
