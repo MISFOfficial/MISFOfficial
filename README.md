@@ -20,10 +20,8 @@ Always open to collaborating on exciting projects!
 
 <!-- Current Activities -->
 ## 🔭 Currently Working On
-- 🌐 Developing a full-featured SEO Business platform called LocalSeoSpace.
-- 🧠 Exploring the power of **Redux** and **TypeScript**.
-- 🛠 Improving backend authentication using JWT & secure cookies.
-- 📘 Sharing coding tips and guides on GitHub.
+- 🌐 Developing minhost one of the largest Proiduct of the AviroSoft.
+- 📘 Sharing type Script tutorial  on Youtube.
 
 <!-- Skills -->
 ## 🚀 Skills
