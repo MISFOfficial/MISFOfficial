@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="/asset/Mine/Banner.jpg" alt="Banner" width="100%" />
-</p>
+</p> -->
 
 <!-- Name & Designation -->
 <h1 align="center">Hi there / Assalamu Alaikum, I'm Muksitul Islam 👋</h1>
