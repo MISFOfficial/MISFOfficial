@@ -5,7 +5,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi there / Assalamu Alaikum, I'm Muksitul Islam 👋</h1>
-<h3 align="center">Junior Software Developer at AviroSoft </h3>
+<h3 align="center">Junior Software Engineer at AviroSoft </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MISFOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="MISFOfficial" />
@@ -20,8 +20,8 @@ Always open to collaborating on exciting projects!
 
 <!-- Current Activities -->
 ## 🔭 Currently Working On
-- 🌐 Developing minhost one of the largest Proiduct of the AviroSoft.
-- 📘 Sharing type Script tutorial  on Youtube.
+- 🌐 Working/underdevelopment on minhost one of the largest Proiduct of AviroSoft.
+- 📘 Sharing typeScript tutorial  on Youtube.
 
 <!-- Skills -->
 ## 🚀 Skills
@@ -41,12 +41,16 @@ Always open to collaborating on exciting projects!
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="40" /><br/>JavaScript
     </td>
+     <td align="center">
+      <img src="https://en.wikipedia.org/wiki/TypeScript" width="40" /><br/>TypeScript
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40" /><br/>React
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br/>Next.js
     </td>
+    
   </tr>
 </table>
 
