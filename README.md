@@ -42,7 +42,7 @@ Always open to collaborating on exciting projects!
       <img src="https://skillicons.dev/icons?i=js" width="40" /><br/>JavaScript
     </td>
      <td align="center">
-      <img src="https://en.wikipedia.org/wiki/TypeScript" width="40" /><br/>TypeScript
+      <img src="https://i.ibb.co.com/8DwtN6tT/Typescript-svg.png" width="40" /><br/>TypeScript
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40" /><br/>React
