@@ -73,6 +73,14 @@ Always open to collaborating on exciting projects!
     <td align="center">
       <img src="https://skillicons.dev/icons?i=firebase" width="40" /><br/>Firebase
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>Postman
+    </td>
+    
+<td align="center">
+  <img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40" />
+  <br/>NextAuth
+</td>
   </tr>
 </table>
 
@@ -107,6 +115,12 @@ Always open to collaborating on exciting projects!
     <td align="center">
       <img src="https://skillicons.dev/icons?i=netlify" width="40" /><br/>Netlify
     </td>
+ <td align="center">
+  <img src="https://i.ibb.co.com/291kBhm/jira-logo-png-seeklogo-338597.png"
+       width="40"
+       style="border-radius: 50%;" />
+  <br/>Jira
+</td>
   </tr>
 </table>
 
