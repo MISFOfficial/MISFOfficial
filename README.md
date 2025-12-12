@@ -77,6 +77,9 @@ Always open to collaborating on exciting projects!
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40" /><br/>Postman
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" /><br/>Docker
+    </td>
     
 <td align="center">
   <img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40" />
