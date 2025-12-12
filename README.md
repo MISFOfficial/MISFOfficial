@@ -22,6 +22,7 @@ Always open to collaborating on exciting projects!
 ## 🔭 Currently Working On
 - 🌐 Working/underdevelopment on minhost one of the largest Proiduct of AviroSoft.
 - 📘 Sharing typeScript tutorial  on Youtube.
+- 📘 Exploring docker.
 
 <!-- Skills -->
 ## 🚀 Skills
