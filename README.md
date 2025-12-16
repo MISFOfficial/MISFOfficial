@@ -65,8 +65,11 @@ Always open to collaborating on exciting projects!
     <td align="center">
       <img src="https://skillicons.dev/icons?i=express" width="40" /><br/>Express.js
     </td>
-    <td align="center">
+      <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongoose" width="40" /><br/>Mongoose
     </td>
     <td align="center">
       <img src="https://i.ibb.co.com/MyYV6P4y/jwt-flower.webp" width="40" /><br/>JWT
