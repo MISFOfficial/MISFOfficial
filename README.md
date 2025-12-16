@@ -6,6 +6,9 @@
 </p>
 -->
 
+<!-- ===================== GitHub Readme Streak Stats ===================== -->
+
+
 <!-- ===================== Intro ===================== -->
 <h1 align="center">Hi there / Assalamu Alaikum 👋</h1>
 <h2 align="center">I'm Muksitul Islam</h2>
@@ -105,45 +108,17 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 ---
 
 ## 📊 GitHub Analytics
-
-### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MISFOfficial&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MISFOfficial&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 
-### 📈 GitHub Stats
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MISFOfficial&show_icons=true&theme=transparent&hide_border=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=MISFOfficial&theme=dark&hide_border=true" />
 </p>
-
-### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MISFOfficial&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MISFOfficial/MISFOfficial/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/MISFOfficial" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/msfofficial" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
