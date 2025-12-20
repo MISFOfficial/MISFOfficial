@@ -74,7 +74,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongoose" width="40"/><br/>Mongoose</td>
+<td align="center"><img src="https://i.ibb.co.com/KcwGK77c/7552965.png" width="40"/><br/>Mongoose</td>
 <td align="center"><img src="https://i.ibb.co.com/MyYV6P4y/jwt-flower.webp" width="40"/><br/>JWT</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
