@@ -78,6 +78,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://i.ibb.co.com/MyYV6P4y/jwt-flower.webp" width="40"/><br/>JWT</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
+  <td align="center"><img src="https://i.ibb.co.com/3yzLYr74/images.png" width="40"/><br/>Swagger UI</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
 <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
 </tr>
@@ -104,6 +105,10 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 </td>
 </tr>
 </table>
+
+### ⚙️ Operating System
+<td align="center"><img src="https://i.ibb.co.com/PvrNVcMF/windows-11-icon-logo-png-seeklogo-406208.png" width="40"/><br/>Windows</td>
+<td align="center"><img src="https://i.ibb.co.com/bMyjgd8X/Ubuntu-Co-F-svg.png" width="40"/><br/>Ubuntu (Linux)</td>
 
 ---
 
