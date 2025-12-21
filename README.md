@@ -7,8 +7,6 @@
 -->
 
 <!-- ===================== GitHub Readme Streak Stats ===================== -->
-
-
 <!-- ===================== Intro ===================== -->
 <h1 align="center">Hi there / Assalamu Alaikum 👋</h1>
 <h2 align="center">I'm Muksitul Islam</h2>
@@ -107,8 +105,10 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 </table>
 
 ### ⚙️ Operating System
-<td align="center"><img src="https://i.ibb.co.com/PvrNVcMF/windows-11-icon-logo-png-seeklogo-406208.png" width="40"/><br/>Windows</td>
+<tr>
+  <td align="center"><img src="https://i.ibb.co.com/PvrNVcMF/windows-11-icon-logo-png-seeklogo-406208.png" width="40"/><br/>Windows</td>
 <td align="center"><img src="https://i.ibb.co.com/bMyjgd8X/Ubuntu-Co-F-svg.png" width="40"/><br/>Ubuntu (Linux)</td>
+</tr>
 
 ---
 
