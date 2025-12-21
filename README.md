@@ -105,10 +105,12 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 </table>
 
 ### ⚙️ Operating System
-<tr>
+<table>
+  <tr>
   <td align="center"><img src="https://i.ibb.co.com/PvrNVcMF/windows-11-icon-logo-png-seeklogo-406208.png" width="40"/><br/>Windows</td>
 <td align="center"><img src="https://i.ibb.co.com/bMyjgd8X/Ubuntu-Co-F-svg.png" width="40"/><br/>Ubuntu (Linux)</td>
 </tr>
+</table>
 
 ---
 
