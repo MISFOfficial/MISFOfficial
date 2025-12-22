@@ -79,6 +79,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
   <td align="center"><img src="https://i.ibb.co.com/3yzLYr74/images.png" width="40"/><br/>Swagger UI</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
 <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
+  <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
 </tr>
 </table>
 
