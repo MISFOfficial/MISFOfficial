@@ -64,6 +64,9 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
 </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+  </tr>
 </table>
 
 ### 🛠 Backend
