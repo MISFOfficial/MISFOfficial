@@ -53,7 +53,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 
 ## 🚀 Skills
 
-### 🖥 Frontend
+### 🖥 Frontend & 🛠 Backend
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
@@ -64,13 +64,9 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
 </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-  </tr>
-</table>
 
-### 🛠 Backend
-<table>
+
+<!--backen-->
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
@@ -84,7 +80,9 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
   <!-- <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td> -->
 </tr>
+
 </table>
+
 
 ### 💳 Payments & Auth
 <table>
