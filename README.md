@@ -72,6 +72,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nest" width="40"/><br/>Nest.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
 <td align="center"><img src="https://i.ibb.co.com/KcwGK77c/7552965.png" width="40"/><br/>Mongoose</td>
 <td align="center"><img src="https://i.ibb.co.com/MyYV6P4y/jwt-flower.webp" width="40"/><br/>JWT</td>
@@ -79,6 +80,14 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman</td>
   <td align="center"><img src="https://i.ibb.co.com/3yzLYr74/images.png" width="40"/><br/>Swagger UI</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+  <!-- <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td> -->
+</tr>
+</table>
+
+<table>
+  <!--Atuthentication-->
+<tr>
+
 <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
   <!-- <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td> -->
 </tr>
