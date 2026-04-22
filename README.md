@@ -71,8 +71,8 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <table>
   <!--frontend-->
 <tr>
-<td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/a0c371b4-6c85-40a0-9721-e306f6f7285b.svg" width="40"/><br/>GSAP</td>
-<td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/6ff605f0-7e7a-496e-8175-9f2340d95cd5.svg" width="40"/><br/>framer-motion</td>
+<td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/a0c371b4-6c85-40a0-9721-e306f6f7285b.svg" width="40"/><br/>framer-motion</td>
+<td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/6ff605f0-7e7a-496e-8175-9f2340d95cd5.svg" width="40"/><br/>GSAP</td>
 <td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/b2c43def-a69a-472f-a869-517904eeb63b.svg" width="40"/><br/>Axios</td>
 <td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/0855a336-23bc-4296-a9e4-db0268ffc2c1.png" width="40"/><br/>TanStack Query</td>
 <td align="center"><img src="https://muksitul.biddaneer.com/muksitul-portfolio/properties/0ec0fb3b-3028-4933-b5f4-c15d424b9fbf.png" width="40"/><br/>i18next</td>
@@ -110,8 +110,8 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 <table>
   <!--Atuthentication-->
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>NextAuth</td>
-  <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
+  <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td>
   <!-- <td align="center"><img src="https://i.ibb.co.com/pjZRgZK3/logo-sm.png" width="40"/><br/>NextAuth</td> -->
 </tr>
 </table>
