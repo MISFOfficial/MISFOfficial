@@ -34,7 +34,7 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 ## 🔭 Currently Working On
 
 - 🌐 **serpolino** – one of the largest products of **serpolino** (under development)
-- 📘 Creating **Next.js tutorials** on YouTube
+- 📘 Creating **NoSQL tutorials** on YouTube
 - 🐳 Exploring **Docker & containerized backend systems**
 - ⚡ Improving system design & API security
 
