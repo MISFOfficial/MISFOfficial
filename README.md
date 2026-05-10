@@ -42,8 +42,8 @@ I’m a **passionate Full Stack Developer** who loves building **scalable, moder
 
 ## 🧠 What I’m Learning Now
 
-- Advanced **n8n**
-- **Docker + Docker Compose**
+- Advanced **PostgreSQL** **SQL**
+- **Docker + Docker Compose** 
 - API optimization & caching
 - Clean Architecture & scalable backend patterns
 
