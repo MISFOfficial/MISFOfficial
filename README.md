@@ -324,6 +324,39 @@ I focus on building **clean, maintainable, and containerized systems** designed 
 
 ---
 
+---
+
+## 🏆 GitHub Engineering Journey
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MISFOfficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MISFOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" height="180em" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MISFOfficial&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180em" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISFOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="180em" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MISFOfficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" />
+
+</div>
+
+---
+
+
 ### 🎯 Current Focus & Growth Trajectory
 
 <div align="center">
