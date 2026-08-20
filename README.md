@@ -2,7 +2,7 @@
 
 # Muksitul Islam
 
-**Junior Software Engineer at Serpolino** · **Full-Stack Developer** · **n8n & Backend Systems**
+**Software Engineer at Pakiza Software LTD**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MISFOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="MISFOfficial" />
@@ -26,9 +26,9 @@ I’m a **passionate Full-Stack Developer** who loves building **scalable, moder
 
 | Metric                | Impact                                                                       |
 | :-------------------- | :--------------------------------------------------------------------------- |
-| 🏢 **Current Role**   | Junior Software Engineer @ **Serpolino**                                     |
-| 🚀 **Core Focus**     | Backend Architecture, Workflow Automation (n8n), and Dockerized Environments |
-| 🛠️ **Best Practices** | Clean Code, Scalable System Design, and API Optimization                     |
+| 🏢 **Current Role**   | Software Engineer @ **Pakiza Software LTD**                                     |
+| 🚀 **Core Focus**     | Frontend Architecture, Golang (Programming Language) |
+| 🛠️ **Best Practices** | Clean Code, Scalable                     |
 | 🤝 **Collaboration**  | Always open to open-source contributions and global collaboration            |
 
 ---
@@ -409,7 +409,7 @@ I'm currently open to:
   <a href="https://muksitul.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:muksitul44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MISFOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</p> 
 
 </div>
 
@@ -417,11 +417,6 @@ I'm currently open to:
 
 <div align="center">
 
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MISFOfficial.MISFOfficial&style=flat-square&color=0e75b6" alt="Visitors" />
-  <img src="https://img.shields.io/github/followers/MISFOfficial?label=Follow&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MISFOfficial?affiliations=OWNER&style=social" alt="Stars" />
-</p>
 
 <sub><em>Built with precision · Engineered for scalability · Automated by design</em></sub>
 
