@@ -33,6 +33,13 @@ I’m a **passionate Full-Stack Developer** who loves building **scalable, moder
 
 ---
 
+
+
+
+
+[![](https://komarev.com/ghpvc/?username=muksitulljahin&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
 ## 💡 What I Bring to the Table
 
 | Dimension               | Expertise                                                                                                      |
