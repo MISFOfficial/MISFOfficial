@@ -26,6 +26,7 @@ I’m a **passionate Full-Stack Developer** who loves building **scalable, moder
 
 | Metric                | Impact                                                                       |
 | :-------------------- | :--------------------------------------------------------------------------- |
+| 🏢 **Designation**   | Jr. Executive                                  |
 | 🏢 **Current Role**   | Software Engineer @ **Pakiza Software LTD**                                     |
 | 🚀 **Core Focus**     | Frontend Architecture, Golang (Programming Language) |
 | 🛠️ **Best Practices** | Clean Code, Scalable                     |
