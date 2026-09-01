@@ -4,9 +4,9 @@
 
 **Software Engineer at Pakiza Software LTD**
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muksitulljahin&label=Profile%20Views&color=0e75b6&style=flat" alt="muksitulljahin" />
-</p> -->
+</p>
 
 <p align="center">
 <a href="https://muksitul.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
